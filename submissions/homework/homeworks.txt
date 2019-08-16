@@ -1,0 +1,45 @@
+HOMEWORKS.
+
+
+To do the algorithm.
+    introducing time. [to do]
+    
+    
+To learn the machine learning. [to do]
+    To learn tensorflow.
+    
+To do the presentation. [done]
+
+Maldita sea. No se guardó el documento.
+
+
+
+* Mark Richard James Homeworks:
+    *To Read the ipython Notebook.                                  [ done ]
+    *To Read: tracking machine learning challenge. Accuracy phase.  [ doing  ]
+    *To learn: Machine Learning. Tensor Flow.                       [ to do  ]
+    *
+
+
+
+* Daniel Campora Homeworks:
+    * Understand the three concepts.   [done]  
+    * TO Read the A Fast Local Algorithm for track reconstruction on parallel architectures.
+    * IMPLEMENTATION OF YOUR ALGORITHM IN PYTHON [ DOING***]
+    
+
+
+* Shantam  Taneja Homeworks:
+
+* Paul Sayfert Homeworks:
+    * Install and Run the GRID framework. [DONE] 
+    * Study TensorFlow. Machine Learning Packages [DOING]
+    
+*My Proper Homeworks:
+    * English Development. [DOING]
+    * Speak with ...
+    
+*FINALLY. 
+*Write the project. (To do)
+*Talk presentation. (To do)
+*Sesion Poster.     (To do, GOOD progress or advances )
